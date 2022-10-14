@@ -1,5 +1,8 @@
+# Folder
 .vscode/*
-
-
 .idea/*
+
+# File
 *.exe
+test
+.DS_Store
