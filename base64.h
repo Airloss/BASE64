@@ -8,7 +8,8 @@
 
 /* -------------------------------------------------------------------------- */
 /* --- PUBLIC FUNCTIONS PROTOTYPES ------------------------------------------ */
-
+char code_to_char(uint8_t x);
+uint8_t char_to_code(char x);
 /**
 @brief Encode binary data in Base64 string (no padding)
 @param in pointer to a table of binary data

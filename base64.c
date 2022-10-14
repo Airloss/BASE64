@@ -28,12 +28,12 @@ static char code_pad = '=';    /* RFC 1421 padding character if padding */
 /**
 @brief Convert a code in the range 0-63 to an ASCII character
 */
-char code_to_char(uint8_t x);
+//char code_to_char(uint8_t x);
 
 /**
 @brief Convert an ASCII character to a code in the range 0-63
 */
-uint8_t char_to_code(char x);
+//uint8_t char_to_code(char x);
 
 /* -------------------------------------------------------------------------- */
 /* --- PRIVATE FUNCTIONS DEFINITION ----------------------------------------- */
